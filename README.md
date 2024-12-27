@@ -29,9 +29,15 @@ A Library Management System built using Java in Apache NetBeans, with a MySQL da
 ## Default Credentials
 - Username: Mehul
 - Password: 123
-## How to Use
-- Run the project from Apache NetBeans.
-- Access the GUI to manage books, members, and transactions
+  
+## How to Use This Project
+1. Download the ZIP file from the repository.
+   - Click on the ZIP file.
+   - Click the **Download** button.
+2. Extract the ZIP file to a folder on your computer.
+3. Follow the setup instructions in this README to configure and run the project.
+4. Run the project from Apache NetBeans.
+5. Access the GUI to manage books, members, and transactions
 
 
 
